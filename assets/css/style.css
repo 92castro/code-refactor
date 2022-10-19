@@ -24,8 +24,8 @@ body {
     color: #d9dcd6;
 }
 
-/* changed div to section to update styling */
-.header section {
+/* changed div to nav to update styling */
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -33,11 +33,11 @@ body {
     font-size: 20px;
 }
 
-.header section ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header section ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
