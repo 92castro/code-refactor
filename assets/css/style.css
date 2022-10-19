@@ -24,6 +24,7 @@ body {
     color: #d9dcd6;
 }
 
+/* changed div to section to update styling */
 .header section {
     padding-top: 15px;
     margin-right: 20px;
