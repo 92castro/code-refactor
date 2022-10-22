@@ -38,6 +38,6 @@ THEN I find a concise, descriptive title
 ## Review
 
 Link to my github repo: https://github.com/92castro/code-refactor
-Link to site: http://92castro.github.io-refactor-code/
+Link to site: https://92castro.github.io/code-refactor/
 
 ![screenshot of my project](/assets/images/screenshot.PNG)
